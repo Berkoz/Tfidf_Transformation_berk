@@ -20,7 +20,7 @@ Open a Python console, import the module TfidfTransformer, create an instance of
 >>
 >> fit_transform = tfidf.fit_transform(documents)
 >> 
->>feature_names = tfidf.get_feature_names()
+>> feature_names = tfidf.get_feature_names()
 ```
 
 
