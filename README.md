@@ -14,7 +14,7 @@ Create python file in VS Code. import the module TfidfTransformer, create an ins
 
 ```python
 # import required module
-from .tfidf_transformation_berk import TfidfTransformer
+from tfidf_transformation_berk import TfidfTransformer
 
 # assign documents
 doc0 = 'A Scandal in Bohemia'
